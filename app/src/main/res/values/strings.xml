@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Contact App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="favourite_contacts">Favourite Contacts</string>
+    <string name="all_contacts">All Contacts</string>
+    <string name="textview">TextView</string>
+</resources>
